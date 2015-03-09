@@ -1,0 +1,3 @@
+.woocommerce table.form-table #woocommerce_scb_approved_message, .woocommerce table.form-table #woocommerce_scb_approved_message_dl, .woocommerce table.form-table #woocommerce_scb_error_message, .woocommerce table.form-table #woocommerce_scb_declined_message, .woocommerce table.form-table #woocommerce_scb_possible_hack_message, .woocommerce table.form-table #woocommerce_scb_hack_message, .woocommerce table.form-table #woocommerce_scb_processing_message {
+width: 45em !important;
+}
