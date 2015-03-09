@@ -1,0 +1,19 @@
+.woocommerce-thanks-text {
+display: none;
+}
+
+.woocommerce-checkout .woocommerce {
+display: table;
+}
+
+.woocommerce-checkout .woocommerce > span {
+display: table-header-group;
+}
+
+.woocommerce > p {
+display: none !important;
+}
+
+.payment_method_scb label img {
+width: 30%;
+}
